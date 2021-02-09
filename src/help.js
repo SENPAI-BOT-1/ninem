@@ -153,7 +153,6 @@ Canal do criador: https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
   │
   ├─ ❏ *send
   ├─ ❏ *wame
-  ├─ ❏ *virtex
   ├─ ❏ *exe
   ├─ ❏ *qrcode
   ├─ ❏ *afk
